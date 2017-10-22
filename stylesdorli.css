@@ -1,0 +1,28 @@
+.dorli {
+  position: relative;
+  left: 250px;
+
+  width: 800px;
+
+  margin: 20px;
+}
+
+.dorlitext {
+  size: 14pt;
+  color: #000 !important;
+}
+
+.hidedlink {
+  size: 1pt;
+  color: #ad120e;
+}
+
+.main .dorlipic {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.main {
+  margin-top: 1% !important;
+  margin-bottom: 1% !important;
+}

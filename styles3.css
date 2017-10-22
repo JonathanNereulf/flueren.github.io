@@ -1,0 +1,40 @@
+
+
+h1 {
+  color: rgb(92, 16, 16) !important;
+  font-size: 35pt;
+}
+
+.titel {
+  color: rgb(9, 133, 11);
+}
+
+
+h1.titel {
+  color: rgb(207, 34, 159) !important;
+}
+
+
+h1 .titel {
+  color: rgba(45, 39, 107, 0.37);
+}
+
+div {
+  background-color: green;
+}
+
+div .titel{
+  color: black;
+}
+
+.logo {
+  background-color: grey;
+}
+
+.logo h2{
+  background-color: white;
+}
+
+.logo img {
+
+}
